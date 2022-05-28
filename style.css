@@ -81,8 +81,8 @@ li {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: #ffd9cb;
-  border: 2px solid #ff7f3f;
+  background-color: #fde3da;
+  border: 2px solid #ffb297;
   border-radius: 30px;
   margin: 10px;
   flex-wrap: wrap;
