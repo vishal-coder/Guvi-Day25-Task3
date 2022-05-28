@@ -129,3 +129,13 @@ audio:focus {
   padding-top: 1rem;
   text-align: center;
 }
+
+@media only screen and (max-width: 992px) {
+  li > *:nth-child(6) {
+    flex-grow: 1;
+    flex-basis: 100%;
+  }
+  li > *:nth-child(5) {
+    flex-basis: 10%;
+  }
+}
